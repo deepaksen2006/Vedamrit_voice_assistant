@@ -1,0 +1,31 @@
+
+FROM qwen3:4b
+
+TEMPLATE """{{- if .System }}<|im_start|>system
+{{ .System }}<|im_end|>
+{{- end }}
+{{- range .Messages }}
+{{- if eq .Role "user" }}<|im_start|>user
+{{ .Content }}<|im_end|>
+{{- else if eq .Role "assistant" }}<|im_start|>assistant
+{{ .Content }}<|im_end|>
+{{- end }}
+{{- end }}
+<|im_start|>assistant
+<think>
+
+</think>
+
+"""
+
+SYSTEM """तुम VedAmrit हो, एक हिंदी AI वॉइस असिस्टेंट।
+हमेशा केवल सरल और स्वाभाविक हिंदी में जवाब दो।
+जवाब एक या दो छोटे वाक्यों में दो।
+तुम AI हो, इसलिए खाना नहीं खाते।
+उपयोगकर्ता की बात का सीधा जवाब दो।"""
+
+PARAMETER temperature 0.3
+PARAMETER num_predict 120
+PARAMETER repeat_penalty 1.1
+PARAMETER stop <|im_end|>
+PARAMETER stop <|im_start|>

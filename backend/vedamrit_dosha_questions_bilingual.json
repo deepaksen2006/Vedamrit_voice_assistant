@@ -1,0 +1,1109 @@
+{
+  "languages": {
+    "hi": [
+      {
+        "section": "prakriti",
+        "id": "1",
+        "question": "आपकी त्वचा की बनावट कैसी है?",
+        "options": [
+          "रूखी या खुरदरी त्वचा, जो तेल को जल्दी सोख लेती है।",
+          "मुलायम, कोमल और गर्म त्वचा; जिस पर झाइयाँ, मुहाँसे या तिल होने की संभावना रहती है।",
+          "तैलीय और साफ त्वचा, जिसमें तेल धीरे-धीरे सोखता है।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "2",
+        "question": "आपके बाल कैसे हैं?",
+        "options": [
+          "रूखे, कमजोर, खुरदरे बाल; दोमुंहे बाल होने की संभावना।",
+          "मध्यम घनत्व वाले सीधे या हल्के घुँघराले बाल; समय से पहले सफेद होने या पतले होने की संभावना।",
+          "घने, मुलायम, सीधे, लहरदार या घुँघराले बाल; सिर की त्वचा तैलीय हो सकती है।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "3",
+        "question": "आपके शरीर की गतिविधियाँ कैसी हैं?",
+        "options": [
+          "बार-बार हिलना-डुलना, बार-बार बैठने की स्थिति बदलना और स्थिर बैठने में कठिनाई।",
+          "शरीर की गतिविधियाँ संतुलित, तेज और फुर्तीली होती हैं।",
+          "शांत और धीमी गतिविधियाँ होती हैं।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "4",
+        "question": "आपकी शारीरिक सहनशक्ति कैसी है?",
+        "options": [
+          "शुरुआत में ऊर्जा अधिक रहती है, लेकिन जल्दी थकान हो जाती है।",
+          "ऊर्जा और उत्साह अधिक रहता है; कठिन गतिविधियाँ और प्रतियोगिता पसंद होती हैं।",
+          "अच्छी सहनशक्ति होती है और लंबे समय तक मध्यम गतिविधि कर सकते हैं।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "5",
+        "question": "संक्रमण या बीमारियों के प्रति आपकी प्रतिक्रिया कैसी रहती है?",
+        "options": [
+          "लक्षण जल्दी-जल्दी बदलते रहते हैं।",
+          "बुखार या सूजन जैसी प्रतिक्रिया तेज हो सकती है, लेकिन जल्दी ठीक होने की प्रवृत्ति रहती है।",
+          "कम बीमार पड़ते हैं, लेकिन ठीक होने में अधिक समय लग सकता है; बलगम या नाक बंद होने की समस्या हो सकती है।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "6",
+        "question": "आपकी भूख कैसी रहती है?",
+        "options": [
+          "भूख एक दिन से दूसरे दिन या एक भोजन से दूसरे भोजन तक बदलती रहती है।",
+          "तेज भूख लगती है और भूख लगने पर चिड़चिड़ापन हो सकता है।",
+          "भूख अच्छी रहती है, लेकिन कभी-कभी भोजन छोड़ने पर भी अधिक परेशानी नहीं होती।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "7",
+        "question": "आप सामान्यतः कितनी मात्रा में भोजन कर पाते हैं?",
+        "options": [
+          "भोजन की मात्रा बदलती रहती है और अक्सर कम मात्रा पसंद आती है।",
+          "पाचन अच्छा रहता है और अधिक मात्रा में भोजन भी कर सकते हैं।",
+          "पाचन सामान्य रहता है और भोजन आराम से पचता है।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "8",
+        "question": "आपको प्यास कैसी लगती है?",
+        "options": [
+          "प्यास का कोई निश्चित समय नहीं होता; कभी एक साथ अधिक पानी पीते हैं और कभी कम। गर्म पेय पसंद हो सकते हैं।",
+          "बार-बार प्यास लगती है और ठंडे पेय पसंद होते हैं।",
+          "कम प्यास लगती है और लंबे समय तक पानी पीना याद नहीं रहता; गर्म पेय पसंद हो सकते हैं।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "9",
+        "question": "आपको पसीना कैसा आता है?",
+        "options": [
+          "कम पसीना आता है और पसीने में सामान्यतः गंध नहीं होती।",
+          "व्यायाम के दौरान पसीना आता है और उसमें स्पष्ट गंध हो सकती है।",
+          "अधिकतर तेज व्यायाम के दौरान पसीना आता है और सामान्यतः गंध कम होती है।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "10",
+        "question": "आपकी याददाश्त कैसी है?",
+        "options": [
+          "जल्दी सीखते हैं, लेकिन जल्दी भूल भी सकते हैं।",
+          "जल्दी सीखते हैं और छोटी-छोटी बातें भी याद रखते हैं।",
+          "सीखने में थोड़ा समय लगता है, लेकिन सीखी हुई बातें लंबे समय तक याद रहती हैं।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "11",
+        "question": "आपकी नींद कैसी रहती है?",
+        "options": [
+          "हल्की या बेचैन नींद आती है, जल्दी जाग जाते हैं या विचार चलते रहते हैं।",
+          "गहरी नींद आती है, लेकिन किसी काम में व्यस्त होने पर नींद कम भी कर सकते हैं।",
+          "गहरी और लंबी नींद आती है तथा सुबह उठने में कठिनाई हो सकती है।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "12",
+        "question": "तापमान के प्रति आपकी संवेदनशीलता कैसी है?",
+        "options": [
+          "गर्म वातावरण पसंद है और ठंड में असहज महसूस करते हैं।",
+          "ठंडा वातावरण पसंद है और अधिक गर्मी या उमस पसंद नहीं है।",
+          "हल्की गर्माहट पसंद है और ठंड को अपेक्षाकृत अच्छी तरह सहन कर लेते हैं।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "13",
+        "question": "आप किसी काम की शुरुआत कैसे करते हैं?",
+        "options": [
+          "शुरुआत में उत्साह अधिक रहता है, लेकिन बाद में रुचि या प्रेरणा कम हो सकती है।",
+          "लक्ष्य पर ध्यान देते हैं, पहल करते हैं और जिम्मेदारी संभालते हैं।",
+          "धीरे-धीरे शुरुआत करते हैं, लेकिन काम शुरू करने के बाद लगातार लगे रहते हैं।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "14",
+        "question": "आपकी भावनात्मक प्रतिक्रिया कैसी होती है?",
+        "options": [
+          "भावनाएँ जल्दी बदलती हैं और छोटी बातों से भी भावनात्मक रूप से प्रभावित हो सकते हैं।",
+          "भावनाएँ तीव्र होती हैं; गुस्सा या निराशा जल्दी हो सकती है।",
+          "शांत और स्थिर रहते हैं तथा संतुष्ट और क्षमाशील होते हैं।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "15",
+        "question": "आपके बोलने का तरीका कैसा है?",
+        "options": [
+          "जल्दी बोलते हैं, एक विचार से दूसरे विचार पर चले जाते हैं और आसानी से ध्यान भटक सकता है।",
+          "स्पष्ट, सीधी, प्रभावशाली और केंद्रित बात करते हैं।",
+          "धीरे, शांत और सोच-समझकर बोलते हैं।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "16",
+        "question": "प्रतियोगिता की स्थिति में आपका व्यवहार कैसा होता है?",
+        "options": [
+          "प्रतियोगिता तनावपूर्ण लगती है और इससे बचना पसंद करते हैं।",
+          "प्रतियोगिता पसंद करते हैं और दबाव में अच्छा प्रदर्शन करते हैं।",
+          "प्रतियोगिता में शांत रहते हैं और दबाव में भी स्थिर बने रहते हैं।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "17",
+        "question": "आपकी मल त्याग की आदत कैसी है?",
+        "options": [
+          "अनियमित मल त्याग, कब्ज, गैस, पेट फूलना या कठोर मल।",
+          "नियमित और बार-बार मल त्याग; कभी-कभी पतला मल या दस्त।",
+          "धीमा लेकिन सहज मल त्याग; मल सामान्यतः भारी, चिपचिपा या अच्छी तरह बना हुआ हो सकता है।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "18",
+        "question": "आपका वजन कम होना कितना आसान है?",
+        "options": [
+          "वजन आसानी से कम हो जाता है।",
+          "नियमित प्रयास, भोजन और व्यायाम से वजन कम कर सकते हैं।",
+          "वजन कम करने के लिए लगातार प्रयास की आवश्यकता होती है।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "19",
+        "question": "आपकी सामान्य मानसिक स्थिति कैसी रहती है?",
+        "options": [
+          "बेचैनी रहती है, ध्यान जल्दी भटकता है और मन में बहुत सारे विचार आते हैं।",
+          "ध्यान केंद्रित रहता है, लेकिन कभी-कभी चिड़चिड़ापन हो सकता है।",
+          "शांत और आराम से रहते हैं तथा दबाव से जल्दी प्रभावित नहीं होते।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "20",
+        "question": "आपका भावनात्मक स्वभाव कैसा है?",
+        "options": [
+          "चिंतित, संवेदनशील और भावनात्मक रूप से अस्थिर महसूस कर सकते हैं।",
+          "जल्दी गुस्सा आ सकता है; स्वभाव तीव्र और उत्साही होता है।",
+          "शांत रहते हैं, जल्दी गुस्सा नहीं होते और भावनात्मक रूप से स्थिर रहते हैं।"
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "21",
+        "question": "आपको किस प्रकार के स्वाद या भोजन अधिक पसंद हैं?",
+        "options": [
+          "मीठा, खट्टा, नमकीन और तीखा या गर्म मसालेदार भोजन।",
+          "खट्टा, नमकीन, मसालेदार और तेज स्वाद वाला भोजन; ठंडे पेय पसंद हैं।",
+          "मीठा, नमकीन और अधिक ऊर्जा देने वाला भोजन; गर्म या मीठे पेय पसंद हैं।",
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V1",
+        "question": "क्या हाल ही में आपको ध्यान केंद्रित करने में कठिनाई, मन का भटकना, अत्यधिक चिंता या बेचैनी महसूस हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V2",
+        "question": "क्या हाल ही में आपको सोने या सोते रहने में परेशानी, निर्णय लेने में कठिनाई, काम शुरू करके अधूरा छोड़ देना या अपनी जिम्मेदारियाँ पूरी करने में कठिनाई हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V3",
+        "question": "क्या हाल ही में आपको बातें भूलने, बिना सोचे-समझे काम करने या नियमित दिनचर्या बनाए रखने में कठिनाई हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V4",
+        "question": "क्या हाल ही में आपको लगातार सूखी खाँसी, बार-बार गला साफ करने की आवश्यकता, गले या आवाज की समस्या अथवा अपनी बात स्पष्ट रूप से व्यक्त करने में कठिनाई हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V5",
+        "question": "क्या हाल ही में भोजन के बाद गैस, पेट में ऐंठन, पेट फूलना, भूख में अनियमितता या भोजन के पाचन में परेशानी हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V6",
+        "question": "क्या हाल ही में आपको कब्ज, मूत्राशय से जुड़ी परेशानी या मासिक धर्म में बदलाव अथवा समस्या हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V7",
+        "question": "क्या हाल ही में खड़े होने पर चक्कर, हाथ-पैर असामान्य रूप से ठंडे होना या दिल की धड़कन तेज अथवा अनियमित महसूस होना हुआ है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P1",
+        "question": "क्या हाल ही में आप चिड़चिड़े, अधीर, जल्दी निराश या गुस्सैल महसूस कर रहे हैं?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P2",
+        "question": "क्या हाल ही में आप दूसरों की अधिक आलोचना करते हैं, दूसरों से ईर्ष्या करते हैं, बहुत प्रतिस्पर्धा करते हैं या अपनी राय पर बहुत दृढ़ रहते हैं?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P3",
+        "question": "क्या हाल ही में काम शुरू करने के बाद उसे रोकना कठिन लगा है, उपलब्धि पाने की तीव्र इच्छा रही है या पुरानी घटनाओं के बारे में बार-बार सोचते रहे हैं?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P4",
+        "question": "क्या हाल ही में आँखों की रोशनी में बदलाव, प्रकाश के कारण सिरदर्द, देखने में परेशानी या आँखों में खुजली, जलन अथवा पानी आने की समस्या हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P5",
+        "question": "क्या हाल ही में सामान्य से अधिक भूख लगी है या पहले की तुलना में अधिक बार मल त्याग करना पड़ा है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P6",
+        "question": "क्या हाल ही में खट्टी डकार, सीने में जलन, अल्सर से संबंधित लक्षण या अधिक वसायुक्त भोजन के बाद पेट में परेशानी हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P7",
+        "question": "क्या हाल ही में आपको लीवर से जुड़ी समस्या, त्वचा पर सूजन या लगातार खुजली और त्वचा में जलन हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K1",
+        "question": "क्या हाल ही में आप विवाद के समय खुद को अलग कर लेते हैं, दिनचर्या में बदलाव पसंद नहीं करते या रिश्तों और पुरानी घटनाओं को पीछे छोड़ने में कठिनाई महसूस करते हैं?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K2",
+        "question": "क्या हाल ही में आपको कुछ समय पहले की बातें याद रखने में कठिनाई, सुबह उठने में परेशानी या इच्छा होने के बावजूद कोई काम शुरू करने में कठिनाई हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K3",
+        "question": "क्या हाल ही में आप भूख के बजाय भावनाओं के कारण अधिक खाते हैं या चुनौतियों का सामना करने की अपनी क्षमता पर कम भरोसा महसूस करते हैं?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K4",
+        "question": "क्या हाल ही में स्वाद या गंध पहचानने की क्षमता कम हुई है, मुँह सूखता है या बार-बार मुँह में छाले होते हैं?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K5",
+        "question": "क्या हाल ही में भोजन के बाद मतली, लंबे समय तक पेट भरा हुआ महसूस होना या भारीपन और नींद आना हुआ है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K6",
+        "question": "क्या हाल ही में साँस लेने में कठिनाई, छाती में भारीपन, घरघराहट या बार-बार छाती में संक्रमण अथवा बलगम वाली खाँसी हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K7",
+        "question": "क्या हाल ही में अकड़न के कारण चलने-फिरने में कठिनाई, घुटनों में अकड़न या सूजन अथवा उँगलियों में सूजन हुई है?",
+        "options": [
+          "बिल्कुल नहीं",
+          "कभी-कभी / कुछ हद तक",
+          "बहुत बार"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A1",
+        "question": "भोजन पचाने की आपकी क्षमता कैसी है?",
+        "options": [
+          "थोड़ी मात्रा में भोजन पचाने में भी कठिनाई होती है।",
+          "कभी भोजन आसानी से पचता है और कभी पचाने में कठिनाई होती है।",
+          "उचित मात्रा में लगभग सभी प्रकार का भोजन पचा सकते हैं।",
+          "अधिक मात्रा में भोजन भी आसानी से पचा सकते हैं।"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A2",
+        "question": "भोजन करने के कितने समय बाद आपको दोबारा भूख लगती है?",
+        "options": [
+          "लगभग 8 घंटे बाद।",
+          "भूख लगने का समय निश्चित नहीं है।",
+          "लगभग 6–8 घंटे बाद।",
+          "6 घंटे से पहले।"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A3",
+        "question": "अनियमित दिनचर्या, नींद में बदलाव या भावनात्मक तनाव का आपके पाचन पर क्या प्रभाव पड़ता है?",
+        "options": [
+          "थोड़े-से बदलाव से भी पाचन बिगड़ जाता है।",
+          "दिनचर्या में अधिक बदलाव होने पर पाचन बिगड़ता है।",
+          "इन बदलावों से पाचन पर अधिक प्रभाव नहीं पड़ता।",
+          "शुरुआत में पाचन प्रभावित होता है, लेकिन बाद में शरीर अनुकूल हो जाता है।"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A4",
+        "question": "आप दिन में कितनी बार भोजन करते हैं?",
+        "options": [
+          "दिन में 2 बार से कम।",
+          "भोजन की संख्या बदलती रहती है; कभी 1 बार, कभी 4 बार तक।",
+          "सामान्यतः दिन में 2–3 बार।",
+          "लगभग हमेशा दिन में 3 बार से अधिक।"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A5",
+        "question": "भूख लगने के बाद आप कितनी देर तक भोजन किए बिना रह सकते हैं?",
+        "options": [
+          "2 घंटे से अधिक समय तक।",
+          "कभी 1 घंटे तक सहन कर सकते हैं, तो कभी 1 घंटे से पहले ही भूख सहन करना कठिन हो जाता है।",
+          "लगभग 1–2 घंटे तक।",
+          "भूख सहन करना बहुत कठिन होता है।"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A6",
+        "question": "आप सामान्यतः कितनी मात्रा में भोजन करते हैं?",
+        "options": [
+          "आमतौर पर कम मात्रा में भोजन करते हैं।",
+          "कभी अधिक और कभी कम मात्रा में भोजन करते हैं।",
+          "सामान्य या मध्यम मात्रा में भोजन करते हैं।",
+          "आमतौर पर अधिक मात्रा में भोजन करते हैं।"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A7",
+        "question": "भारी भोजन पचाने में आपको कितना समय लगता है?",
+        "options": [
+          "सामान्य से अधिक समय लगता है।",
+          "समय कभी कम और कभी अधिक लगता है।",
+          "सामान्य समय में पच जाता है।",
+          "काफी जल्दी पच जाता है।"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A8",
+        "question": "आपकी मल त्याग की आदत कैसी है?",
+        "options": [
+          "कब्ज होने की प्रवृत्ति रहती है।",
+          "कभी मल कठोर होता है और कभी नरम।",
+          "मल सामान्य रहता है, न बहुत कठोर और न बहुत नरम।"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A9",
+        "question": "आप सामान्यतः किस समय भोजन करते हैं?",
+        "options": [
+          "निर्धारित समय के बाद भोजन करते हैं।",
+          "कभी निर्धारित समय से पहले और कभी बाद में भोजन करते हैं।",
+          "सामान्यतः निर्धारित समय पर ही भोजन करते हैं।",
+          "सामान्यतः निर्धारित समय से पहले भोजन करते हैं।"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A10",
+        "question": "भोजन पच जाने के बाद आप कैसा महसूस करते हैं?",
+        "options": [
+          "पेट या शरीर में अक्सर भारीपन महसूस होता है।",
+          "कभी-कभी हल्का भारीपन महसूस होता है।",
+          "अधिकतर शरीर हल्का महसूस होता है।",
+          "भोजन के बाद काफी जल्दी हल्कापन महसूस होता है।"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A11",
+        "question": "अपना पसंदीदा भोजन देखकर आपको कैसा महसूस होता है?",
+        "options": [
+          "भूख होने पर भी भोजन करने की इच्छा नहीं होती।",
+          "कभी भोजन करने की इच्छा होती है और कभी नहीं।",
+          "भोजन करने की इच्छा होती है।",
+          "पसंद हो या न हो, लगभग किसी भी भोजन को खाने की इच्छा होती है।"
+        ]
+      },
+      {
+        "section": "diet_duration",
+        "id": "D1",
+        "question": "आप कितने दिनों का आहार प्लान चाहते हैं?",
+        "options": [
+          "एक दिन का आहार प्लान।",
+          "सात दिनों का आहार प्लान।"
+        ]
+      }
+    ],
+    "en": [
+      {
+        "section": "prakriti",
+        "id": "1",
+        "question": "How would you describe your skin texture?",
+        "options": [
+          "Dry/rough skin; absorbs oils quickly.",
+          "Soft, supple, warm skin; prone to pigmentation, pimples, or moles.",
+          "Oily, clear skin; oils absorb slowly."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "2",
+        "question": "How would you describe your hair?",
+        "options": [
+          "Dry, brittle, rough; may have split ends.",
+          "Medium-density, straight/slightly wavy; prone to premature graying/thinning.",
+          "Dense, smooth, straight/wavy/curly; oily scalp."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "3",
+        "question": "How would you describe your body movements?",
+        "options": [
+          "Moves frequently; changes position often; difficult to sit still.",
+          "Coordinated and agile.",
+          "Calm and slow movements."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "4",
+        "question": "How would you describe your physical endurance?",
+        "options": [
+          "Bursts of energy but tires easily.",
+          "Strong drive; enjoys intense activity and competition.",
+          "Good stamina; sustains moderate activity for long periods."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "5",
+        "question": "How would you describe your resistance to infections?",
+        "options": [
+          "Symptoms fluctuate quickly.",
+          "Strong reaction (fever/inflammation); recovers quickly.",
+          "Rarely sick but recovery is slow; may have congestion/mucus."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "6",
+        "question": "How would you describe your hunger/appetite?",
+        "options": [
+          "Hunger varies from meal to meal.",
+          "Strong appetite; becomes irritable when hungry.",
+          "Good appetite; can easily skip a meal."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "7",
+        "question": "How much food do you usually consume?",
+        "options": [
+          "Varies; often prefers smaller portions.",
+          "Strong digestion; can handle larger quantities.",
+          "Good digestion; processes food slowly and comfortably."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "8",
+        "question": "How would you describe your thirst?",
+        "options": [
+          "Unpredictable thirst; drinks in spurts; prefers warm drinks.",
+          "Frequent thirst; prefers cool drinks.",
+          "Low thirst; can go long periods without drinking; prefers warm drinks."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "9",
+        "question": "How would you describe your sweating?",
+        "options": [
+          "Sweats less; sweat generally odorless.",
+          "Sweats during exercise; sweat may have noticeable odor.",
+          "Sweats mainly during intense exercise; generally odorless."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "10",
+        "question": "How would you describe your memory?",
+        "options": [
+          "Learns quickly but forgets easily.",
+          "Learns quickly and remembers details well.",
+          "Learns slowly but retains information for a long time."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "11",
+        "question": "How would you describe your sleep?",
+        "options": [
+          "Light/restless sleep; wakes easily; racing thoughts.",
+          "Sound sleep; can skip sleep when engaged in work.",
+          "Deep, long sleep; difficult to give up sleep."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "12",
+        "question": "How sensitive are you to temperature?",
+        "options": [
+          "Prefers warmth; uncomfortable in cold.",
+          "Prefers cool environments; dislikes excessive heat/humidity.",
+          "Slightly prefers warmth; tolerates cold fairly well."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "13",
+        "question": "How do you usually initiate work?",
+        "options": [
+          "Enthusiastic initially but motivation fluctuates; may lose interest.",
+          "Highly driven, goal-oriented, takes initiative and charge.",
+          "Slow and steady; persistent once started."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "14",
+        "question": "How would you describe your emotional arousal?",
+        "options": [
+          "Emotions fluctuate; easily emotionally aroused and sensitive.",
+          "Strong/intense emotions; passionate, may become angry/frustrated.",
+          "Calm and stable; peaceful, content, forgiving."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "15",
+        "question": "How would you describe your speech pattern?",
+        "options": [
+          "Speaks quickly; jumps between ideas; lively but distractible.",
+          "Clear, direct, sharp and focused; persuasive.",
+          "Slow, calm, soothing speech; careful with words."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "16",
+        "question": "How do you behave in competitive situations?",
+        "options": [
+          "Dislikes competition; finds it stressful.",
+          "Enjoys competition and performs well under pressure.",
+          "Handles competition calmly and remains stable under pressure."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "17",
+        "question": "How would you describe your bowel movements?",
+        "options": [
+          "Irregular; constipation, gas/bloating; hard/dry stools.",
+          "Regular and frequent; may have loose stools/diarrhea.",
+          "Slow and easy; stools may be heavy, sticky, and well-formed."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "18",
+        "question": "How easily do you tend to lose weight?",
+        "options": [
+          "Loses weight easily.",
+          "Can lose weight with focused diet/exercise.",
+          "Requires consistent effort; weight loss is slower."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "19",
+        "question": "How would you describe your usual mental state?",
+        "options": [
+          "Restless, easily distracted, high mental activity.",
+          "Focused and sharp but can become agitated.",
+          "Relaxed, unhurried, not easily pressured."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "20",
+        "question": "How would you describe your emotional temperament?",
+        "options": [
+          "Anxious, sensitive, unpredictable.",
+          "Quick to anger, easily agitated, intense and passionate.",
+          "Calm, slow to anger; may find emotional detachment difficult."
+        ]
+      },
+      {
+        "section": "prakriti",
+        "id": "21",
+        "question": "What type of taste/food do you generally prefer?",
+        "options": [
+          "Sweet, sour, salty, spicy/hot foods and drinks.",
+          "Sour, salty, spicy and strong flavors; likes cool drinks.",
+          "Sweet, salty, calorie-rich foods; likes warm/sweet drinks."
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V1",
+        "question": "Recently, have you experienced difficulty concentrating, feeling mentally scattered or overwhelmed, excessive worry/anxiety, or restlessness?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V2",
+        "question": "Recently, have you had difficulty falling asleep or staying asleep, difficulty making decisions, starting things without finishing them, or trouble following through on commitments?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V3",
+        "question": "Recently, have you noticed increased forgetfulness, impulsive or inconsistent behavior, or difficulty maintaining a steady routine?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V4",
+        "question": "Recently, have you experienced a persistent dry cough or need to clear your throat, recurrent throat/voice problems, or difficulty expressing yourself effectively?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V5",
+        "question": "Recently, have you experienced gas, abdominal cramping or bloating after meals, inconsistent appetite, or difficulty with food moving through your digestive tract?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V6",
+        "question": "Recently, have you experienced constipation, difficulty with bladder function, or changes/problems related to your menstrual or sexual function?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "V7",
+        "question": "Recently, have you experienced light-headedness when standing, unusually cold hands or feet, or episodes of heart palpitations?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P1",
+        "question": "Recently, have you been feeling irritable, impatient, easily frustrated, angry, or aggressive toward others?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P2",
+        "question": "Recently, have you been unusually critical or judgmental, jealous of others, strongly competitive, or strongly opinionated?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P3",
+        "question": "Recently, have you found it difficult to stop working once you start, felt strongly driven to achieve, or repeatedly replayed past situations in your mind?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P4",
+        "question": "Recently, have you experienced worsening eyesight, headaches associated with light sensitivity or visual disturbance, or itchy/sensitive/watery eyes?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P5",
+        "question": "Recently, have you experienced an unusually strong appetite or more frequent bowel movements than usual?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P6",
+        "question": "Recently, have you experienced reflux, heartburn, ulcer symptoms, or abdominal discomfort after eating fatty meals?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "P7",
+        "question": "Have you recently experienced or been diagnosed with liver problems, inflammatory skin conditions, or persistent itchy/irritated skin?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K1",
+        "question": "Recently, have you tended to withdraw during conflict, resist changes to your routine, or find it difficult to move on from relationships, situations, or the past?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K2",
+        "question": "Recently, have you noticed short-term memory difficulties, difficulty getting started in the morning, or difficulty taking action even when you intend to?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K3",
+        "question": "Recently, have you been eating more because of emotions rather than hunger, or felt less confident in your ability to cope with challenges?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K4",
+        "question": "Recently, have you experienced reduced taste or smell, dry mouth, or recurring mouth sores?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K5",
+        "question": "Recently, have you experienced nausea after eating, prolonged fullness, or sleepiness/heaviness after meals?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K6",
+        "question": "Recently, have you experienced heavy breathing, a feeling of heaviness in the chest, wheezing/asthma episodes, or recurring chest colds/wet cough?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "vikriti",
+        "id": "K7",
+        "question": "Recently, have you experienced stiffness that limits movement, knee stiffness/swelling, or swelling of the fingers?",
+        "options": [
+          "Not at all",
+          "Somewhat / Occasionally",
+          "Very often"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A1",
+        "question": "What option describes best your ability to digest food?",
+        "options": [
+          "Unable to digest even small quantities",
+          "Ability varies, sometimes able and sometimes not",
+          "Can digest almost all sorts when consumed in appropriate quantity",
+          "Can digest almost all food very easily, even in large quantities"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A2",
+        "question": "What time do you need to feel like eating again, after having your meal?",
+        "options": [
+          "About 8 hours",
+          "Not consistent",
+          "6–8 hours",
+          "Before 6 hours"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A3",
+        "question": "What effects do you observe in your digestion due to disturbances in your lifestyle? (eg, irregular eating habits, disturbed sleeping pattern, emotional disturbances, etc)",
+        "options": [
+          "Digestion is disturbed due to slight variation",
+          "Digestion is disturbed due to appreciable disturbances",
+          "Digestion is not affected much",
+          "Initially disturbed; later adapts"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A4",
+        "question": "How frequently do you have your meals in a day?",
+        "options": [
+          "Less than 2 meals/day",
+          "Frequency varies between 1 and 4 meals/day",
+          "Usually 2–3 meals/day",
+          "Almost always more than 3 meals/day"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A5",
+        "question": "How do you describe your ability to bear hunger? (ie, your ability to wait for food after you feel hungry)",
+        "options": [
+          "Can bear more than 2 hours",
+          "Sometimes bearable up to 1 hour, sometimes unbearable in less than 1 hour",
+          "Can bear 1–2 hours",
+          "Very difficult to bear hunger"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A6",
+        "question": "What quantity of meals do you have in a day?",
+        "options": [
+          "Usually small meals",
+          "Sometimes large and sometimes small",
+          "Neither too small nor too large",
+          "Usually large meals"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A7",
+        "question": "How do you describe your capacity to digest heavy meals in terms of time?",
+        "options": [
+          "Digestion mostly takes longer than normal",
+          "Time varies",
+          "Completed in normal time",
+          "Quite quickly"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A8",
+        "question": "How do you describe your bowel habits?",
+        "options": [
+          "Tendency for constipation",
+          "Bowels sometimes hard and sometimes soft",
+          "Normal, neither hard nor soft"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A9",
+        "question": "How do you describe your eating habits?",
+        "options": [
+          "Generally eat after scheduled time",
+          "Generally eat before or after scheduled time",
+          "Generally exactly on scheduled time",
+          "Generally before scheduled time"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A10",
+        "question": "How do you feel after the complete digestion of meals?",
+        "options": [
+          "Frequently heaviness in abdomen/body",
+          "Occasionally slight heaviness",
+          "Mostly lightness",
+          "Lightness quite early after meals"
+        ]
+      },
+      {
+        "section": "agni",
+        "id": "A11",
+        "question": "How do you express your feelings that you develop after looking at the food items that you like?",
+        "options": [
+          "No desire to eat even when hungry",
+          "Sometimes desire, sometimes not",
+          "Desire to eat food",
+          "Desire to eat any food irrespective of liking"
+        ]
+      },
+      {
+        "section": "diet_duration",
+        "id": "D1",
+        "question": "How many days of diet plan do you want?",
+        "options": [
+          "One-day plan",
+          "Seven-day plan"
+        ]
+      }
+    ]
+  }
+}

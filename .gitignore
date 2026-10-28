@@ -1,0 +1,62 @@
+﻿# Python virtual environments
+.venv/
+.venv-1/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local databases and private data
+*.db
+*.db-shm
+*.db-wal
+dosha_voice_answers_*.json
+
+# Audio recordings
+*.wav
+*.mp3
+*.flac
+
+# Downloaded AI models
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.bin
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Large reference books and generated OCR data
+books/
+storage/ocr_full/
+storage/ocr_books/
+storage/ocr_comparison/
+storage/ocr_audit/
+storage/extracted_books/
+storage/rag_sources/
+
+# Local databases
+storage/*.sqlite3
+storage/*.db
+
+# Local screenshots
+storage/*.png
+

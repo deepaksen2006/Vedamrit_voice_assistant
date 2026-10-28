@@ -1,0 +1,38 @@
+[
+  {
+    "operation": "replace",
+    "original": "इन्द-इृद्धिः",
+    "suggested": "इद्धि-इृद्धिः",
+    "decision": "REJECTED"
+  },
+  {
+    "operation": "replace",
+    "original": "टो,",
+    "suggested": "हो,",
+    "decision": "ACCEPTED"
+  },
+  {
+    "operation": "replace",
+    "original": "द्वो",
+    "suggested": "हो",
+    "decision": "ACCEPTED"
+  },
+  {
+    "operation": "replace",
+    "original": "इृद्धतम",
+    "suggested": "इद्धतम",
+    "decision": "REJECTED"
+  },
+  {
+    "operation": "replace",
+    "original": "दृद्व",
+    "suggested": "दृद्ध",
+    "decision": "REJECTED"
+  },
+  {
+    "operation": "insert",
+    "original": "",
+    "suggested": "\nश्चि )",
+    "decision": "REJECTED"
+  }
+]
